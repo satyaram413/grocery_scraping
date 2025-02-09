@@ -77,3 +77,4 @@ The scraped data will be saved to `grocery_products.json`.
 ## Contributing
 
 Feel free to open issues or submit pull requests for improvements.
+If you feel this is helpful please give a star.
